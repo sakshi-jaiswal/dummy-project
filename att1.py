@@ -4,7 +4,7 @@ from tkinter import messagebox
 import time
 import datetime
 root=Tk()
-root.title("attendence management system")
+root.title("attendence management")
 root.geometry('1350x650+0+0')
 root.configure(background='black')
 LeftMayFrame=Frame(root,width=1000,height=650,bd=8,relief='raised')
